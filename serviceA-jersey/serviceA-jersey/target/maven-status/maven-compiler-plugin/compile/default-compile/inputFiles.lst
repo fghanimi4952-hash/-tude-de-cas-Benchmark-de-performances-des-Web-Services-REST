@@ -1,0 +1,10 @@
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/model/Category.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/dao/CategoryDAO.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/config/JerseyConfig.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/rest/CategoryResource.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/test/HibernateTest.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/util/HibernateUtil.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/dao/ItemDAO.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/model/Item.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/rest/ItemResource.java
+/Users/hicham/Dev/serviceA-jersey/src/main/java/com/example/AppConfig.java

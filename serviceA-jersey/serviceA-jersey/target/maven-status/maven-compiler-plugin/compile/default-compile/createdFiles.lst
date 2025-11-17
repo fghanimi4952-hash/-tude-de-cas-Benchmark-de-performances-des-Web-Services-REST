@@ -1,0 +1,10 @@
+com/example/test/HibernateTest.class
+com/example/dao/CategoryDAO.class
+com/example/dao/ItemDAO.class
+com/example/model/Item.class
+com/example/model/Category.class
+com/example/AppConfig.class
+com/example/util/HibernateUtil.class
+com/example/config/JerseyConfig.class
+com/example/rest/CategoryResource.class
+com/example/rest/ItemResource.class

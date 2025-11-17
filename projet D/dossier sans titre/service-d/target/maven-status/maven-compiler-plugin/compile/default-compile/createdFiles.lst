@@ -1,0 +1,8 @@
+com/mliaedu/benchmark/entity/Category.class
+com/mliaedu/benchmark/controller/ItemCustomController.class
+com/mliaedu/benchmark/repository/CategoryRepository.class
+com/mliaedu/benchmark/entity/Item.class
+com/mliaedu/benchmark/util/DataGenerator.class
+com/mliaedu/benchmark/ServiceDApplication.class
+com/mliaedu/benchmark/config/RestConfig.class
+com/mliaedu/benchmark/repository/ItemRepository.class
