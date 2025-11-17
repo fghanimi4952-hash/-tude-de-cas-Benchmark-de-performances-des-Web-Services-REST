@@ -300,7 +300,7 @@ Pour des **applications de production** avec des exigences de performance, la **
 
 ## Encadrement & Auteurs
 **Encadré par** :Mr.LACHGR mohammed
-**Réalisée par** :BENZIAT hana
+**Réalisée par** :GHANIMI Fatima ezzahra 
 
 ---
 * Résultats complets disponibles dans le dossier `Etude de cas/`*  
